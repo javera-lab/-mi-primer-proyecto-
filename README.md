@@ -1,6 +1,6 @@
 # -mi-primer-proyecto-
 ## Datos del estudiante
-- **Nombre:** [Aquí pones tu nombre completo]
+- **Nombre:** Josue Vera
 - **Carrera:** Desarrollo de Aplicaciones Web
 - **Institución:** ISTLT
 - **Período:** 2026-1
